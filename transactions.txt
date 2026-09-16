@@ -1,0 +1,39 @@
+Account Holder Name: hamza
+Account Number: 123
+Transaction Type: Deposit
+Amount: 20
+Balance: 120
+Date: Thu Aug 27 12:42:33 2026------------------------
+Account Holder Name: hamza
+Account Number: 123
+Transaction Type: Withdrawal
+Amount: 50
+Balance: 70
+Date: Thu Aug 27 12:43:36 2026------------------------
+Account Holder Name: hamza
+Account Number: 123
+Transaction Type: Deposit
+Amount: 10
+Balance: 80
+Date: Thu Aug 27 12:43:48 2026------------------------
+Account Holder Name: Hammad
+Account Number: 2222
+Transaction Type: Withdrawal
+Amount: 200
+Balance: 300
+Date: Sun Aug 30 15:47:07 2026------------------------
+Account Holder Name: ProHamza
+Account Number: 3333
+Transaction Type: Withdrawal
+Amount: 300
+Balance: 700
+Date: Mon Aug 31 18:10:38 2026
+------------------------
+Account Holder Name: Nafees
+Account Number: 4637
+Transaction Type: Deposit
+Amount: 10
+Balance: 110
+PIN : 8008
+Date: Tue Sep  1 12:00:50 2026
+------------------------
